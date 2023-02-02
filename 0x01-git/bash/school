@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "The school is open!"
+<<<<<<< HEAD
+The school is open!
+=======
+ALX School is so cool!
+>>>>>>> master
